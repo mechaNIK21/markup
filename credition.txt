@@ -1,0 +1,7 @@
+Helium:
+
+login: mechanik6522
+pass: TwoToTheForthPoweR
+server: @students.a-level.com.ua
+
+login string: mechanik6522@students.a-level.com.ua
